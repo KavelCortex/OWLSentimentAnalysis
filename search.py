@@ -5,7 +5,7 @@ from config import teams,time_stage_till_now
 
 def printTweet(filename, t, lang='en'):
     t_dict = {}
-    if t.language == lang:
+    if True:
         t_dict['id'] = t.id
         t_dict['date'] = t.formatted_date
         t_dict['username'] = t.username
