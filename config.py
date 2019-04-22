@@ -1,12 +1,12 @@
-teams = ["AtlantaReign", "BostonUprising",
-         "FloridaMayhem", "HoustonOutlaws",
-         "LondonSpitfire", "NYXL",
-         "ParisEternal", "PhiladelphiaFusion",
-         "TorontoDefiant", "WashingtonJustice", "ChengduHunters", "DallasFuel",
-         "GuangzhouCharge", "HangzhouSpark",
-         "LosAngelesGladiators", "LosAngelesValiant",
-         "SFShock", "SeoulDynasty",
-         "ShanghaiDragons", "VancouverTitans"]
+teams = ["Atlanta Reign", "Boston Uprising",
+         "Florida Mayhem", "Houston Outlaws",
+         "London Spitfire", "NYXL",
+         "Paris Eternal", "Philadelphia Fusion",
+         "Toronto Defiant", "WashingtonJustice", "Chengdu Hunters", "Dallas Fuel",
+         "Guangzhou Charge", "Hangzhou Spark",
+         "Los Angeles Gladiators", "LosAngeles Valiant",
+         "SF Shock", "Seoul Dynasty",
+         "Shanghai Dragons", "Vancouver Titans"]
 time_stage1 = [
     ["2019-02-14", "2019-02-19"],
     ["2019-02-21", "2019-02-26"],
