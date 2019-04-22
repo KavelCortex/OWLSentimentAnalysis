@@ -4,7 +4,7 @@ teams = ["Atlanta Reign", "Boston Uprising",
          "Paris Eternal", "Philadelphia Fusion",
          "Toronto Defiant", "WashingtonJustice", "Chengdu Hunters", "Dallas Fuel",
          "Guangzhou Charge", "Hangzhou Spark",
-         "Los Angeles Gladiators", "LosAngeles Valiant",
+         "Los Angeles Gladiators", "Los Angeles Valiant",
          "SFShock", "Seoul Dynasty",
          "Shanghai Dragons", "Vancouver Titans"]
 
