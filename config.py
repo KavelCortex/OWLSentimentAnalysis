@@ -1,8 +1,13 @@
-teams = [ "Chengdu Hunters", "Dallas Fuel",
+teams = ["Atlanta Reign", "Boston Uprising",
+         "Florida Mayhem", "Houston Outlaws",
+         "London Spitfire", "NYXL",
+         "Paris Eternal", "Philadelphia Fusion",
+         "Toronto Defiant", "WashingtonJustice", "Chengdu Hunters", "Dallas Fuel",
          "Guangzhou Charge", "Hangzhou Spark",
-         "Los Angeles Gladiators", "Los Angeles Valiant",
+         "Los Angeles Gladiators", "LosAngeles Valiant",
          "SFShock", "Seoul Dynasty",
          "Shanghai Dragons", "Vancouver Titans"]
+
 time_stage1 = [
     ["2019-02-14", "2019-02-19"],
     ["2019-02-21", "2019-02-26"],
