@@ -5,7 +5,7 @@ teams = ["Atlanta Reign", "Boston Uprising",
          "Toronto Defiant", "WashingtonJustice", "Chengdu Hunters", "Dallas Fuel",
          "Guangzhou Charge", "Hangzhou Spark",
          "Los Angeles Gladiators", "LosAngeles Valiant",
-         "SF Shock", "Seoul Dynasty",
+         "SFShock", "Seoul Dynasty",
          "Shanghai Dragons", "Vancouver Titans"]
 time_stage1 = [
     ["2019-02-14", "2019-02-19"],
