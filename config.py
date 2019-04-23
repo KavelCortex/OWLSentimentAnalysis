@@ -1,10 +1,10 @@
 teams = ["Atlanta Reign", "Boston Uprising",
-         "Florida Mayhem", "Houston Outlaws",
+         "FLMayhem", "Houston Outlaws",
          "London Spitfire", "NYXL",
          "Paris Eternal", "Philadelphia Fusion",
          "Toronto Defiant", "WashingtonJustice", "Chengdu Hunters", "Dallas Fuel",
-         "Guangzhou Charge", "Hangzhou Spark",
-         "Los Angeles Gladiators", "Los Angeles Valiant",
+         "GZCharge", "Hangzhou Spark",
+         "LAGladiators", "LAValiant",
          "SFShock", "Seoul Dynasty",
          "Shanghai Dragons", "Vancouver Titans"]
 
